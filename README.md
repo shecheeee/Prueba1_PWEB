@@ -1,7 +1,7 @@
-# prueba1
+# Entregas Programación Web - Tienda de Sushi - Grupo 6
 
 
 
-Probando el codigo de la prueba 1 
+
 
 
